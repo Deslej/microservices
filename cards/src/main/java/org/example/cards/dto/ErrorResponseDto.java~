@@ -1,0 +1,4 @@
+package org.example.cards.dto;
+
+public class ErrorResponseDto {
+}

@@ -1,0 +1,4 @@
+package org.example.cards.entity;
+
+public class BaseEntity {
+}
