@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to Bank loans related QA APIs"
+  contactDetails:
+    name: "Mikołaj Sarkowicz"
+    email: "mikolaj.sarkowicz@o2.pl"
+  onCallSupport:
+    - (319) 53242-1231
+    - (592) 12446-0999

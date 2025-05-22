@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Bank loans related local APIs"
+  contactDetails:
+    name: "Mikołaj Sarkowicz"
+    email: "mikolaj.sarkowicz@o2.pl"
+  onCallSupport:
+    - (555) 535-1234
+    - (555) 646-6566

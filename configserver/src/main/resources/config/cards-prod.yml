@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to Bank cards related prod APIs"
+  contactDetails:
+    name: "Mikołaj Sarkowicz"
+    email: "mikolaj.sarkowicz@o2.pl"
+  onCallSupport:
+    - (193) 353-3234
+    - (593) 616-6297
