@@ -23,9 +23,8 @@ spring:
   rabbitmq:
     host: "localhost"
     port: 5672
-    stream:
-      username: "quest"
-      password: "quest"
+    username: "quest"
+    password: "quest"
 
 management:
   endpoints:
